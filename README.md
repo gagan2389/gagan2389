@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-Frontend Engineer with **2+ years** of experience designing and shipping **enterprise-scale web applications** with React, TypeScript, Vite, Tailwind CSS and Ant Design. I focus on scalable UI architecture — reusable component libraries, config-driven rendering, and measurable performance wins.
+Frontend Engineer with **1.5+ years** of experience designing and shipping **enterprise-scale web applications** with React, TypeScript, Vite, Tailwind CSS and Ant Design. I focus on scalable UI architecture — reusable component libraries, config-driven rendering, and measurable performance wins.
 
 ```ts
 const gagan = {
@@ -92,15 +92,6 @@ const gagan = {
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query"/>
-</p>
-
-**Backend & Data**
-
-<p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 **Tooling & Workflow**
