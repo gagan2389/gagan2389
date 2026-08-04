@@ -154,43 +154,39 @@ const gagan = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/gagan2389?style=for-the-badge&logo=github&label=Followers&labelColor=0F172A&color=2563EB" alt="Followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgagan2389&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos&labelColor=0F172A&color=2563EB" alt="Public Repos"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgagan2389&query=%24.public_gists&style=for-the-badge&logo=github&label=Gists&labelColor=0F172A&color=2563EB" alt="Gists"/>
-  <img src="https://img.shields.io/badge/Since-Dec%202021-06B6D4?style=for-the-badge&logo=github&labelColor=0F172A" alt="Member since"/>
-</p>
-
-<p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com?user=gagan2389&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&dates=8B949E" alt="GitHub Streak"/>
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gagan2389&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&radius=8" alt="Contribution Graph"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/gagan2389?tab=repositories" target="_blank" rel="noopener noreferrer"><b>Browse all repositories →</b></a>
+</p>
+
 <details>
-<summary><b>Why the classic stats cards are not embedded here</b></summary>
+<summary><b>Adding reliable stats cards (optional setup)</b></summary>
 
 <br/>
 
-`github-readme-stats.vercel.app` and `github-profile-summary-cards.vercel.app` share one GitHub API token across every profile that embeds them, so they return `500` / rate-limit errors for hours at a time. The maintainers describe the public instance as best-effort and recommend self-hosting.
+Every public stats-card service — `github-readme-stats`, `github-profile-summary-cards`, `streak-stats` — shares a single GitHub API token across every profile embedding it, so they intermittently return `500`, `INVALID`, or a rate-limit message. There is no public host that avoids this.
 
-To restore the full stats card permanently, deploy your own instance:
+Two durable fixes:
+
+**1. Self-host the stats card**
 
 1. Fork `anuraghazra/github-readme-stats`
 2. Import the fork into Vercel and deploy
-3. Add an environment variable `PAT_1` containing a GitHub personal access token with `read:user` and `repo` scope
-4. Swap the host in the URL below for your own deployment
+3. Add env var `PAT_1` = a GitHub personal access token with `read:user` and `repo` scope
+4. Embed using your own host:
 
 ```md
 <img src="https://YOUR-APP.vercel.app/api?username=gagan2389&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-<img src="https://YOUR-APP.vercel.app/api/top-langs/?username=gagan2389&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
 ```
 
-Your own token gets the full 5,000 requests/hour, so the cards never fail.
+**2. Generate SVGs with GitHub Actions (most reliable)**
+
+Use `lowlighter/metrics` or `Platane/snk` in a scheduled workflow. The action renders an SVG and commits it into this repo, so the image is served by GitHub itself — no external API, no rate limits, ever.
 
 </details>
 
