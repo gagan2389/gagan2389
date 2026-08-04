@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://gagangupta.site"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>
-  <a href="https://github.com/gagan2389"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/gagan2389"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:gupta.gagan2002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://gagangupta.site" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/></a>
+  <a href="https://github.com/gagan2389" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/gagan2389" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:gupta.gagan2002@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -157,8 +157,17 @@ const gagan = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gagan2389&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan2389&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gagan2389&theme=github_dark" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gagan2389&theme=github_dark" alt="Repos per Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gagan2389&theme=github_dark" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gagan2389&theme=github_dark" alt="Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gagan2389&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
 </p>
 
 <p align="center">
@@ -169,20 +178,16 @@ const gagan = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gagan2389&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true" alt="Contribution Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gagan2389&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
-</p>
-
-<sub>Stats cards are rendered by third-party services and may briefly show a placeholder during API rate limits — refresh to reload.</sub>
+<sub>Cards are served by third-party APIs. If one shows a placeholder it is a temporary rate limit — a hard refresh (Ctrl/Cmd + Shift + R) reloads it.</sub>
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://gagangupta.site"><img src="https://img.shields.io/badge/gagangupta.site-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Website"/></a>
-  <a href="mailto:gupta.gagan2002@gmail.com"><img src="https://img.shields.io/badge/gupta.gagan2002@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/gagan2389"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://gagangupta.site" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gagangupta.site-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Website"/></a>
+  <a href="mailto:gupta.gagan2002@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gupta.gagan2002@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/gagan2389" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center"><i>Open to Frontend Engineer opportunities — React · TypeScript · UI Architecture</i></p>
