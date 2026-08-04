@@ -1,74 +1,104 @@
-<!-- ===================== ULTRA LUXURY HEADER ===================== -->
+
+# 👋 Hi, I'm Gagan Gupta
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Gagan%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20React%20Architect%20•%20UI%20Engineer&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Gagan%20Gupta&fontSize=48&fontColor=ffffff&desc=Frontend%20Engineer%20|%20React%20|%20TypeScript%20|%20UI%20Architecture"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Architect;Config+Driven+Form+Engine+Builder;Component+Library+Engineer;Enterprise+UI+Systems"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Frontend+Engineer;React+%26+TypeScript+Developer;Enterprise+UI+Architect;Component+Library+Builder;Config-Driven+Form+Engine+Developer"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=gagan2389&label=Profile%20views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/gagan2389?style=social" />
-<img src="https://img.shields.io/github/stars/gagan2389?style=social" />
-</p>
+## 🚀 About Me
 
----
+Frontend Engineer with 2+ years of experience building enterprise-scale web applications using **React, TypeScript, Vite, Tailwind CSS and Ant Design**.
 
-# 👋 Gagan Gupta
+I enjoy building scalable frontend architectures, reusable component libraries, design systems, and config-driven platforms that power complex business applications.
 
-🚀 Frontend Engineer building **enterprise-scale React platforms**
-⚡ Specialist in **config-driven UI + form engines**
-🏗 Creator of **component libraries & design systems**
-
-🌐 Portfolio: https://gagangupta.site/
-💻 GitHub: https://github.com/gagan2389
+- 🔭 Building enterprise React platforms
+- 🌱 Learning AI-powered engineering workflows
+- 💬 Ask me about React, TypeScript, UI Architecture
+- 🌐 Portfolio: https://gagangupta.site
+- 📫 Email: gupta.gagan2002@gmail.com
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,materialui,angular,vite,git,github,figma,npm,vscode"/>
-</p>
+### Languages
+TypeScript • JavaScript • HTML5 • CSS3 • Java
 
-<p align="center">
-React • Ant Design • Config Driven UI • JSON Schema • Form Engine • Component Library • Design System
-</p>
+### Frontend
+React • Angular • Tailwind CSS • Ant Design • Material UI • Bootstrap
 
----
+### Backend
+NestJS • REST APIs
 
-# 🚀 Featured Projects
+### Tools
+Git • GitHub • Vite • Nx • Figma • VS Code • NPM
 
-### 🏢 Company Projects
-
-| Project           | Live                               |
-| ----------------- | ---------------------------------- |
-| Tirumala Tech     | https://test.tirumalatech.in/      |
-| Optron Industries | https://www.optronindustries.com/  |
-| Tirumala Tech     | https://tirumalatech.in/           |
-| OneInflu          | https://oneinflu.com/              |
-| NorthStar         | https://northstartest.netlify.app/ |
+### AI Tools
+ChatGPT • Claude Code • OpenAI Codex • Cursor • GitHub Copilot • Windsurf • Stitch • Trae
 
 ---
 
-# 🚀 Startup Projects
+# 💼 Experience
 
-| Startup   | Live                  |
-| --------- | --------------------- |
-| CreateLab | https://createlab.in/ |
-| Dineq     | https://dineq.in/     |
-| Dineze    | https://dineze.in/    |
-| BookMaro  | https://bookmaro.com/ |
+## Member of Technical Staff — CCTech
+
+- Built HOTO platform
+- PCC workflow
+- Excel/CSV bulk import
+- NestJS backend enhancements
+
+## Software Engineer I — Aumnee
+
+- Built Loan Origination System
+- Config-driven Form Engine
+- Component Library (60+ reusable components)
+- Led frontend delivery
+
+## Software Developer Intern — Aumnee
+
+- Omni UI
+- Marvin Platform
+- LOS Config
+- Rules Management
+
+---
+
+# 🚀 Products I've Built
+
+| Product | Live |
+|---------|------|
+| Optron Industries | https://optronindustries.com |
+| Nouri Foods | https://nourifoods.in |
+| Tirumala Tech | https://tirumalatech.in |
+| BookMaro | https://bookmaro.com |
+| Dineq | https://dineq.in |
+| Dineze | https://dineze.in |
+
+---
+
+# 🏆 Engineering Highlights
+
+- Enterprise React Applications
+- Config Driven Form Engine
+- Design Systems
+- Component Libraries
+- JSON Schema Rendering
+- Performance Optimization
+- Responsive UI
+- Accessibility
+- AI Assisted Development
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gagan2389&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan2389&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gagan2389&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan2389&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -76,7 +106,7 @@ React • Ant Design • Config Driven UI • JSON Schema • Form Engine • Co
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gagan2389&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=gagan2389&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -84,54 +114,16 @@ React • Ant Design • Config Driven UI • JSON Schema • Form Engine • Co
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gagan2389&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gagan2389&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🧠 What I Build
+# 🤝 Connect
 
-<p align="center">
-
-🚀 Config Driven UI Systems
-⚡ Dynamic Form Engines
-🧩 Component Libraries
-🎨 Design Systems
-📊 Fintech Dashboards
-🏗 Enterprise React Apps
-📦 JSON Schema Rendering
-
-</p>
-
----
-
-# 💼 Experience
-
-### 🚀 Software Engineer — Saison Omni
-
-Built LOS & LMS platforms with config driven architecture and component libraries.
-
-### 💻 Software Developer Intern — Saison Omni
-
-Worked on Omni UI, Marvin platform, LMS config and rules engine.
-
-### 🌐 Web Developer — Adani Enterprises
-
-Built feedback system and responsive UI architecture.
-
----
-
-# 📫 Contact
-
-<p align="center">
-
-📧 [gupta.gagan2002@gmail.com](mailto:gupta.gagan2002@gmail.com)
-🌐 https://gagangupta.site/
-💻 https://github.com/gagan2389
-
-</p>
-
----
+- 🌐 https://gagangupta.site
+- 💻 https://github.com/gagan2389
+- 📧 gupta.gagan2002@gmail.com
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
