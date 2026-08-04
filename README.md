@@ -1,130 +1,93 @@
 
-# 👋 Hi, I'm Gagan Gupta
+<!-- Responsive GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Gagan%20Gupta&fontSize=48&fontColor=ffffff&desc=Frontend%20Engineer%20|%20React%20|%20TypeScript%20|%20UI%20Architecture"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:06B6D4&text=Gagan%20Gupta&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Frontend%20Engineer%20•%20React%20•%20TypeScript%20•%20UI%20Architecture&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Frontend+Engineer;React+%26+TypeScript+Developer;Enterprise+UI+Architect;Component+Library+Builder;Config-Driven+Form+Engine+Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Frontend+Engineer;React+%7C+TypeScript+%7C+Angular;Enterprise+UI+Architecture;Component+Libraries;Config-Driven+Form+Engine"/>
 </p>
 
-## 🚀 About Me
+<p align="center">
+<a href="https://gagangupta.site">Portfolio</a> •
+<a href="https://github.com/gagan2389">GitHub</a> •
+<a href="mailto:gupta.gagan2002@gmail.com">Email</a>
+</p>
 
-Frontend Engineer with 2+ years of experience building enterprise-scale web applications using **React, TypeScript, Vite, Tailwind CSS and Ant Design**.
+## 👋 About Me
 
-I enjoy building scalable frontend architectures, reusable component libraries, design systems, and config-driven platforms that power complex business applications.
+Frontend Engineer with 2+ years of experience building enterprise-grade React applications, design systems, component libraries and config-driven platforms.
 
-- 🔭 Building enterprise React platforms
-- 🌱 Learning AI-powered engineering workflows
-- 💬 Ask me about React, TypeScript, UI Architecture
-- 🌐 Portfolio: https://gagangupta.site
-- 📫 Email: gupta.gagan2002@gmail.com
-
----
-
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
-TypeScript • JavaScript • HTML5 • CSS3 • Java
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,java"/>
+</p>
 
 ### Frontend
-React • Angular • Tailwind CSS • Ant Design • Material UI • Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,vite"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=antd,materialui"/>
+</p>
 
-### Backend
-NestJS • REST APIs
-
-### Tools
-Git • GitHub • Vite • Nx • Figma • VS Code • NPM
+### Backend & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=nestjs,git,github,figma,vscode,npm"/>
+</p>
 
 ### AI Tools
 ChatGPT • Claude Code • OpenAI Codex • Cursor • GitHub Copilot • Windsurf • Stitch • Trae
 
----
-
-# 💼 Experience
-
-## Member of Technical Staff — CCTech
-
-- Built HOTO platform
-- PCC workflow
-- Excel/CSV bulk import
-- NestJS backend enhancements
-
-## Software Engineer I — Aumnee
-
-- Built Loan Origination System
-- Config-driven Form Engine
-- Component Library (60+ reusable components)
-- Led frontend delivery
-
-## Software Developer Intern — Aumnee
-
-- Omni UI
-- Marvin Platform
-- LOS Config
-- Rules Management
-
----
-
-# 🚀 Products I've Built
+## 🚀 Products
 
 | Product | Live |
-|---------|------|
-| Optron Industries | https://optronindustries.com |
+|---|---|
 | Nouri Foods | https://nourifoods.in |
 | Tirumala Tech | https://tirumalatech.in |
+| Optron Industries | https://optronindustries.com |
 | BookMaro | https://bookmaro.com |
 | Dineq | https://dineq.in |
 | Dineze | https://dineze.in |
 
----
-
-# 🏆 Engineering Highlights
+## 🏆 Highlights
 
 - Enterprise React Applications
-- Config Driven Form Engine
+- Config-Driven Form Engine
+- 60+ Reusable Components
 - Design Systems
-- Component Libraries
-- JSON Schema Rendering
 - Performance Optimization
-- Responsive UI
 - Accessibility
-- AI Assisted Development
+- NestJS APIs
 
----
+## 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gagan2389&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan2389&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
+> **Note:** GitHub Stats services occasionally fail due to API rate limits. If images don't load immediately, refresh after a few minutes.
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=gagan2389&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gagan2389&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gagan2389&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gagan2389&theme=tokyo-night"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=gagan2389&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+## 📈 Contribution Graph
 
-# 🤝 Connect
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gagan2389&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🤝 Connect
 
 - 🌐 https://gagangupta.site
-- 💻 https://github.com/gagan2389
+- 💼 https://linkedin.com/in/gagangupta06
 - 📧 gupta.gagan2002@gmail.com
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,100:06B6D4"/>
 </p>
