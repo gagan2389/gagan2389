@@ -157,28 +157,42 @@ const gagan = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gagan2389&theme=github_dark" alt="Profile Summary"/>
+  <img src="https://img.shields.io/github/followers/gagan2389?style=for-the-badge&logo=github&label=Followers&labelColor=0F172A&color=2563EB" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgagan2389&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos&labelColor=0F172A&color=2563EB" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgagan2389&query=%24.public_gists&style=for-the-badge&logo=github&label=Gists&labelColor=0F172A&color=2563EB" alt="Gists"/>
+  <img src="https://img.shields.io/badge/Since-Dec%202021-06B6D4?style=for-the-badge&logo=github&labelColor=0F172A" alt="Member since"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gagan2389&theme=github_dark" alt="Repos per Language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gagan2389&theme=github_dark" alt="Most Commit Language"/>
+  <img width="72%" src="https://streak-stats.demolab.com?user=gagan2389&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&dates=8B949E" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gagan2389&theme=github_dark" alt="Stats"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gagan2389&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gagan2389&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&radius=8" alt="Contribution Graph"/>
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=gagan2389&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak"/>
-</p>
+<details>
+<summary><b>Why the classic stats cards are not embedded here</b></summary>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gagan2389&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true" alt="Contribution Graph"/>
-</p>
+<br/>
 
-<sub>Cards are served by third-party APIs. If one shows a placeholder it is a temporary rate limit — a hard refresh (Ctrl/Cmd + Shift + R) reloads it.</sub>
+`github-readme-stats.vercel.app` and `github-profile-summary-cards.vercel.app` share one GitHub API token across every profile that embeds them, so they return `500` / rate-limit errors for hours at a time. The maintainers describe the public instance as best-effort and recommend self-hosting.
+
+To restore the full stats card permanently, deploy your own instance:
+
+1. Fork `anuraghazra/github-readme-stats`
+2. Import the fork into Vercel and deploy
+3. Add an environment variable `PAT_1` containing a GitHub personal access token with `read:user` and `repo` scope
+4. Swap the host in the URL below for your own deployment
+
+```md
+<img src="https://YOUR-APP.vercel.app/api?username=gagan2389&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+<img src="https://YOUR-APP.vercel.app/api/top-langs/?username=gagan2389&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+```
+
+Your own token gets the full 5,000 requests/hour, so the cards never fail.
+
+</details>
 
 ---
 
